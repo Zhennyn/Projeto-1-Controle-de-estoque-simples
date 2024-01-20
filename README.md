@@ -43,10 +43,6 @@ Testes
 
 O sistema inclui testes para garantir que esteja funcionando corretamente. Os testes podem ser executados usando o Visual Studio ou o Replit.
 
-Documentação
-
-O sistema inclui documentação que explica como usar o sistema e como funciona. A documentação pode ser encontrada no arquivo README.md.
-
 Melhorias
 
 O sistema pode ser melhorado da seguinte forma:
